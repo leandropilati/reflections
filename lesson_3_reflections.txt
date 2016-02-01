@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork = copy a Github repo to my GitHub profile. This is useful when you want to try someone else's code without breaking it. only works in GiyHub
 Clone = copy a repo to my working directory. Go
 Branch = creates a separate branch to add changes and modifications without breaking master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+if you are going to be offline (without internet connection) then you woould still be able to continue executing the commands and validating the changes.
