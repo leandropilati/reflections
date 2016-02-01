@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When a colleague has developed some code in his/her branch that is still being worked, but you want to bring to your branch and experiment with
+it, it would make sense to use the remote repo.
+
+
