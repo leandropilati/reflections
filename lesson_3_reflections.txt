@@ -6,3 +6,9 @@ it, it would make sense to use the remote repo.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 this allows to group the commits with logical changes and have better control over the commits.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork = copy a Github repo to my GitHub profile. This is useful when you want to try someone else's code without breaking it. only works in GiyHub
+Clone = copy a repo to my working directory. Go
+Branch = creates a separate branch to add changes and modifications without breaking master.
