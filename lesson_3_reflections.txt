@@ -3,3 +3,6 @@ When a colleague has developed some code in his/her branch that is still being w
 it, it would make sense to use the remote repo.
 
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+this allows to group the commits with logical changes and have better control over the commits.
