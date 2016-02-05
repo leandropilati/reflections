@@ -16,3 +16,5 @@ Branch = creates a separate branch to add changes and modifications without brea
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 if you are going to be offline (without internet connection) then you woould still be able to continue executing the commands and validating the changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
