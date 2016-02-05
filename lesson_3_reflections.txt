@@ -1,20 +1,20 @@
-When would you want to use a remote repository rather than keeping all your work local?
-When a colleague has developed some code in his/her branch that is still being worked, but you want to bring to your branch and experiment with
+Q When would you want to use a remote repository rather than keeping all your work local?
+- When a colleague has developed some code in his/her branch that is still being worked, but you want to bring to your branch and experiment with
 it, it would make sense to use the remote repo.
 
+Q Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+- this allows to group the commits with logical changes and have better control over the commits.
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Q Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- Fork = copy a Github repo to my GitHub profile. This is useful when you want to try someone else's code without breaking it. only works in GiyHub
+- Clone = copy a repo to my working directory. Go
+- Branch = creates a separate branch to add changes and modifications without breaking master.
 
-this allows to group the commits with logical changes and have better control over the commits.
+Q What is the benefit of having a copy of the last known state of the remote stored locally?
+- if you are going to be offline (without internet connection) then you woould still be able to continue executing the commands and validating the changes.
 
-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Q How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- probably manually versioning things. it would be much harder as it would be something else to worry and look after
 
-Fork = copy a Github repo to my GitHub profile. This is useful when you want to try someone else's code without breaking it. only works in GiyHub
-Clone = copy a repo to my working directory. Go
-Branch = creates a separate branch to add changes and modifications without breaking master.
-
-What is the benefit of having a copy of the last known state of the remote stored locally?
-
-if you are going to be offline (without internet connection) then you woould still be able to continue executing the commands and validating the changes.
-
-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Q When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- When you want to experiment things withouth compromising the master branch which should have a working version of the software being created.
